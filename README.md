@@ -10,6 +10,6 @@
   <li>Write a definition for your selected term</li>
   <li>Format the definition you have written according to the provided template.</li>
   <li>Save your formatted definition as an html file with your selected term as the file name, including no spaces or special characters.</li>
-  <li>Navigate to the "&gt;Code&lt;" tab. Navigate to the Github Branch entitled "Submitted_Glossary_Definitions".</li>
+  <li>Navigate to the "&lt;&gt;Code" tab. Navigate to the Github Branch entitled "Submitted_Glossary_Definitions" and the "PB-203-0_Spring19_GlossaryTerms" project.</li>
   <li>Select the "Upload files" button and upload your html file.</li>
   </ol>
