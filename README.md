@@ -1,4 +1,3 @@
-# PB-203-0_Spring19_GlossaryTerms
 <body>
   <h1>To Submit Glossary Entry Definitions</h1>
 <ol>
