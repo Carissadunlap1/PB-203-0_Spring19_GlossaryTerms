@@ -9,6 +9,7 @@
   <li>Research your selected term. Note any sources you consult.</li>
   <li>Write a definition for your selected term</li>
   <li>Format the definition you have written according to the provided template.</li>
-  <li>Navigate to the "<Code>" tab. Save your formatted definition as an html file with the term as the file name, including no spaces or special characters.</li>
-  <li>Upload your html file to the Github Branch entitled "Submitted_Glossary_Definitions.</li>
+  <li>Save your formatted definition as an html file with your selected term as the file name, including no spaces or special characters.</li>
+  <li>Navigate to the "&gt;Code&lt;" tab. Navigate to the Github Branch entitled "Submitted_Glossary_Definitions".</li>
+  <li>Select the "Upload files" button and upload your html file.</li>
   </ol>
